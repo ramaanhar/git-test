@@ -55,3 +55,7 @@ body{
 .navbar-dark{
     background-color: #512DA8;
 }
+
+.card{
+    padding: 0px;
+}
